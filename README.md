@@ -34,7 +34,7 @@ Adicionar o tipo de plano do usuário no desafio anterior por meio de middleware
 $ git clone https://github.com/viniciusrcarvalho/nodejs02.git
 
 # Entre na pasta
-$ cd IgniteNode-ChapterI-Desafio02
+$ cd nodejs02
 
 # Instale as dependências
 $ yarn ou yarn install
